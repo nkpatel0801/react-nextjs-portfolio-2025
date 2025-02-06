@@ -17,6 +17,17 @@ A modern, responsive portfolio website built with Next.js, React, and Tailwind C
 - 💨 Tailwind CSS for styling
 - 🔄 Smooth transitions and animations
 
+## Preview
+
+### Light Mode
+![Light Mode](./preview/light-mode.png)
+
+### Dark Mode
+![Dark Mode](./preview/dark-mode.png)
+
+### Features Demo
+![Features](./preview/demo.gif)
+
 ## Getting Started
 
 1. Clone the repository:
