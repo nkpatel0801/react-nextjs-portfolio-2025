@@ -25,7 +25,7 @@ A modern, responsive portfolio website built with Next.js, React, and Tailwind C
 ### Dark Mode
 ![Dark Mode](./preview/dark-mode.png)
 
-### Features Demo
+### Demo
 ![Features](./preview/demo.gif)
 
 ## Getting Started
